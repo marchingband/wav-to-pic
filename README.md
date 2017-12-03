@@ -20,6 +20,6 @@ Here are the steps:
 8 : write this line of code into the python REPL, replacing "myfile.txt" with your own desired output file name, in quotes:
   wav2pic.convert(wav2pic.x,"my_file.txt")
 
-9 : open "myfile.txt", it will be in the same directory as wav2pic.py, and copy everything
+9 : open "myfile.txt", it will be in the same directory as wav2pic.py, and copy everything /n
 
 10 : paste into your c file, and use it in your PIC-based application.
